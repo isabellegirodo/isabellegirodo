@@ -1,8 +1,6 @@
 # Olá, Meu nome é Isabelle &#x1F44B;
 ## Seja muito bem-vinda(o) ao meu perfil &#x1F603;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellegirodo&show_icons=true&theme=midnight-purple)
-
 ## Tecnologias que utilizo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
